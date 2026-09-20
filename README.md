@@ -12,6 +12,10 @@ Get the latest version here: [Releases](https://github.com/stugalabs/myhrt-relea
 - The app can't update itself. Check Releases for new versions, or add this repository to Obtainium.
 - Android will ask you to allow installs from your browser or file manager. That's normal for apps installed outside the Play Store.
 
+## Support the project
+
+MyHRT is free, with no ads and no tracking. If you'd like to help, there are several ways, and most of them cost nothing: [myhrt.health/support](https://myhrt.health/support/)
+
 ## Important
 
 - For adults (18+) only.
