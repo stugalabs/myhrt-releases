@@ -1,19 +1,64 @@
-MyHRT Binary Distribution Notice
+MyHRT APK Distribution License 1.0
 
 Copyright (c) 2026 Stuga Labs. All rights reserved.
 
+
+PERMISSION
+
 The MyHRT application files (APKs) published in this repository's releases
-are provided for personal installation and use only, subject to the MyHRT
-Terms of Service (https://myhrt.health/terms/) and Privacy Policy
+are provided for personal use by adults (18 or older). You may:
+
+  1. Download the APK and install it on your own devices.
+
+  2. Inspect, decompile, and analyze the APK solely to verify MyHRT's
+     security and privacy claims, including by comparing it against the code
+     published at https://github.com/stugalabs/myhrt-security. If you find a
+     security issue, please report it privately first, as described in that
+     repository's SECURITY.md.
+
+Use of the app is subject to the MyHRT Terms of Service
+(https://myhrt.health/terms/) and Privacy Policy
 (https://myhrt.health/privacy/), which you accept when you first open the app.
 
-You may download the APK and install it on your own devices. You may not
-redistribute, re-host, modify, repackage or sell it without written
-permission from Stuga Labs.
 
-"MyHRT" is a trademark of Stuga Labs (registration pending). "Stuga Labs" is
-a registered company name. The MyHRT logo is protected by copyright. None of
-these may be used in other applications or services.
+RESTRICTIONS
 
-This repository contains no source code. Security-critical source is
-published for verification at https://github.com/stugalabs/myhrt-security
+Except as permitted above, you may not redistribute, re-host, modify,
+repackage, or sell the APK without separate written permission from the
+copyright holder. These permissions end automatically if you breach this
+license.
+
+
+OFFICIAL SOURCES
+
+The only official sources of MyHRT are Google Play, this repository, and any
+other source listed on https://myhrt.health. Copies obtained elsewhere are not
+provided or supported by Stuga Labs and may have been altered.
+
+
+NAMES AND LOGO
+
+This license grants no right to use the "MyHRT" or "Stuga Labs" names, the
+MyHRT logo, or any confusingly similar name or mark. "MyHRT" is a trademark of
+Stuga Labs, with a trademark registration application pending. "Stuga Labs" is
+a registered company name. The MyHRT logo is protected by copyright.
+
+
+NO WARRANTY AND LIABILITY
+
+The APK is provided "as is", without warranty of any kind, to the maximum
+extent permitted by applicable law. Liability is limited as set out in the
+MyHRT Terms of Service. Nothing in this license limits any liability that
+cannot be excluded by law, or your statutory rights as a consumer.
+
+
+GOVERNING LAW AND CONTACT
+
+This license is governed by the laws of Sweden, as set out in the MyHRT Terms
+of Service. Permission requests and questions: https://myhrt.health/contact/
+
+
+RESERVATION OF RIGHTS
+
+All rights not expressly granted in this license are reserved by the
+copyright holder. This repository contains no source code.
